@@ -20225,6 +20225,20 @@
     },
     {
         "date": "2026-03-16",
+        "symbol": "FINV",
+        "time": "盤後",
+        "market_cap": "1.28B",
+        "pe": 3.36,
+        "pb": 0.55,
+        "eps_est": 1.61,
+        "eps_last_q": 2.36,
+        "eps_last_y": 1.32,
+        "qoq": -31.8,
+        "yoy": 22.0,
+        "price": 5.17
+    },
+    {
+        "date": "2026-03-16",
         "symbol": "VYGR",
         "time": "盤前",
         "market_cap": "229.63M",
@@ -22008,6 +22022,20 @@
     },
     {
         "date": "2026-03-19",
+        "symbol": "XXII",
+        "time": "盤前",
+        "market_cap": "2.07M",
+        "pe": -0.27,
+        "pb": 0.1,
+        "eps_est": -2.1,
+        "eps_last_q": -136930.45,
+        "eps_last_y": -958326.82,
+        "qoq": 100.0,
+        "yoy": 100.0,
+        "price": 4.05
+    },
+    {
+        "date": "2026-03-19",
         "symbol": "MGNX",
         "time": "盤後",
         "market_cap": "131.58M",
@@ -22579,6 +22607,20 @@
         "qoq": 77.8,
         "yoy": 0.0,
         "price": 1.57
+    },
+    {
+        "date": "2026-03-19",
+        "symbol": "TII",
+        "time": "盤後",
+        "market_cap": "331.67M",
+        "pe": 25.86,
+        "pb": 72.4,
+        "eps_est": -0.01,
+        "eps_last_q": -0.03,
+        "eps_last_y": 0.0,
+        "qoq": 66.7,
+        "yoy": 0.0,
+        "price": 3.62
     },
     {
         "date": "2026-03-19",
