@@ -3262,19 +3262,6 @@
     },
     {
         "date": "2026-02-25",
-        "symbol": "SPCE",
-        "time": "盤後",
-        "market_cap": "195.99M",
-        "pe": -0.66,
-        "pb": 0.75,
-        "eps_est": -1.07,
-        "eps_last_q": -1.1,
-        "eps_last_y": -2.53,
-        "qoq": 2.7,
-        "yoy": 57.7
-    },
-    {
-        "date": "2026-02-25",
         "symbol": "LINE",
         "time": "盤前",
         "market_cap": "8.81B",
@@ -18294,20 +18281,6 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "PHR",
-        "time": "盤後",
-        "market_cap": "759.01M",
-        "pe": 8.37,
-        "pb": 2.37,
-        "eps_est": 0.32,
-        "eps_last_q": 0.31,
-        "eps_last_y": 0.18,
-        "qoq": 3.2,
-        "yoy": 77.8,
-        "price": 12.59
-    },
-    {
-        "date": "2026-03-12",
         "symbol": "SAVA",
         "time": "盤前",
         "market_cap": "102.41M",
@@ -18921,20 +18894,6 @@
         "qoq": 0.0,
         "yoy": 11.1,
         "price": 9.45
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "DFDV",
-        "time": "盤後",
-        "market_cap": "89.53M",
-        "pe": 1.12,
-        "pb": 0.34,
-        "eps_est": -0.07,
-        "eps_last_q": -0.1,
-        "eps_last_y": -0.08,
-        "qoq": 30.0,
-        "yoy": 10.9,
-        "price": 2.99
     },
     {
         "date": "2026-03-12",
@@ -20827,20 +20786,6 @@
     },
     {
         "date": "2026-03-16",
-        "symbol": "HIT",
-        "time": "盤後",
-        "market_cap": "92.19M",
-        "pe": 81.0,
-        "pb": 5.33,
-        "eps_est": -0.01,
-        "eps_last_q": 0.01,
-        "eps_last_y": 0.01,
-        "qoq": -200.0,
-        "yoy": -200.0,
-        "price": 1.62
-    },
-    {
-        "date": "2026-03-16",
         "symbol": "WW",
         "time": "盤前",
         "market_cap": "230.4M",
@@ -21690,20 +21635,6 @@
         "qoq": -5.9,
         "yoy": 52.4,
         "price": 26.79
-    },
-    {
-        "date": "2026-03-18",
-        "symbol": "NYC",
-        "time": "盤後",
-        "market_cap": "23.2M",
-        "pe": 6.2,
-        "pb": 0.32,
-        "eps_est": -1.72,
-        "eps_last_q": -2.49,
-        "eps_last_y": -3.39,
-        "qoq": 30.9,
-        "yoy": 49.3,
-        "price": 8.68
     },
     {
         "date": "2026-03-18",
@@ -22878,20 +22809,6 @@
     },
     {
         "date": "2026-03-19",
-        "symbol": "SCVL",
-        "time": "盤前",
-        "market_cap": "551.61M",
-        "pe": 9.6,
-        "pb": 0.81,
-        "eps_est": 0.44,
-        "eps_last_q": 0.53,
-        "eps_last_y": 0.54,
-        "qoq": -17.0,
-        "yoy": -18.5,
-        "price": 20.15
-    },
-    {
-        "date": "2026-03-19",
         "symbol": "NYXH",
         "time": "盤後",
         "market_cap": "176.83M",
@@ -23561,6 +23478,20 @@
     },
     {
         "date": "2026-03-24",
+        "symbol": "VELO",
+        "time": "盤後",
+        "market_cap": "300.58M",
+        "pe": null,
+        "pb": 8.47,
+        "eps_est": -0.56,
+        "eps_last_q": -0.69,
+        "eps_last_y": -52.5,
+        "qoq": 18.8,
+        "yoy": 98.9,
+        "price": 12.21
+    },
+    {
+        "date": "2026-03-24",
         "symbol": "XFOR",
         "time": "盤前",
         "market_cap": "306.03M",
@@ -24147,20 +24078,6 @@
     },
     {
         "date": "2026-03-25",
-        "symbol": "LVLU",
-        "time": "盤後",
-        "market_cap": "39.47M",
-        "pe": -52.74,
-        "pb": 15.58,
-        "eps_est": -1.35,
-        "eps_last_q": -2.85,
-        "eps_last_y": -3.76,
-        "qoq": 52.6,
-        "yoy": 64.1,
-        "price": 14.24
-    },
-    {
-        "date": "2026-03-25",
         "symbol": "VERB",
         "time": "盤前",
         "market_cap": "--",
@@ -24329,20 +24246,6 @@
     },
     {
         "date": "2026-03-25",
-        "symbol": "OXM",
-        "time": "盤後",
-        "market_cap": "568.17M",
-        "pe": 14.45,
-        "pb": 1.08,
-        "eps_est": 1.27,
-        "eps_last_q": -0.92,
-        "eps_last_y": 1.37,
-        "qoq": 238.0,
-        "yoy": -7.3,
-        "price": 38.19
-    },
-    {
-        "date": "2026-03-25",
         "symbol": "KGEI",
         "time": "盤前",
         "market_cap": "163.05M",
@@ -24438,6 +24341,20 @@
         "qoq": 35.9,
         "yoy": -137.0,
         "price": 10.17
+    },
+    {
+        "date": "2026-03-25",
+        "symbol": "HIT",
+        "time": "盤後",
+        "market_cap": "115.52M",
+        "pe": 101.5,
+        "pb": 6.68,
+        "eps_est": -0.01,
+        "eps_last_q": 0.01,
+        "eps_last_y": 0.01,
+        "qoq": -200.0,
+        "yoy": -200.0,
+        "price": 2.03
     },
     {
         "date": "2026-03-25",
@@ -24620,20 +24537,6 @@
         "qoq": -87.5,
         "yoy": 102.5,
         "price": 22.0
-    },
-    {
-        "date": "2026-03-26",
-        "symbol": "VELO",
-        "time": "盤後",
-        "market_cap": "349.57M",
-        "pe": null,
-        "pb": 9.85,
-        "eps_est": -0.5,
-        "eps_last_q": -0.69,
-        "eps_last_y": -52.5,
-        "qoq": 27.5,
-        "yoy": 99.0,
-        "price": 14.2
     },
     {
         "date": "2026-03-26",
@@ -25001,6 +24904,20 @@
     },
     {
         "date": "2026-03-26",
+        "symbol": "NYC",
+        "time": "盤前",
+        "market_cap": "22.51M",
+        "pe": 6.01,
+        "pb": 0.31,
+        "eps_est": -1.72,
+        "eps_last_q": -2.49,
+        "eps_last_y": -3.39,
+        "qoq": 30.9,
+        "yoy": 49.3,
+        "price": 8.42
+    },
+    {
+        "date": "2026-03-26",
         "symbol": "PIII",
         "time": "盤後",
         "market_cap": "436.8M",
@@ -25253,6 +25170,20 @@
     },
     {
         "date": "2026-03-26",
+        "symbol": "OXM",
+        "time": "盤後",
+        "market_cap": "578.14M",
+        "pe": 14.7,
+        "pb": 1.09,
+        "eps_est": 1.27,
+        "eps_last_q": -0.92,
+        "eps_last_y": 1.37,
+        "qoq": 238.0,
+        "yoy": -7.3,
+        "price": 38.86
+    },
+    {
+        "date": "2026-03-26",
         "symbol": "AGX",
         "time": "盤後",
         "market_cap": "4.88B",
@@ -25278,6 +25209,20 @@
         "qoq": 0.0,
         "yoy": -13.7,
         "price": 64.38
+    },
+    {
+        "date": "2026-03-26",
+        "symbol": "SCVL",
+        "time": "盤前",
+        "market_cap": "517.39M",
+        "pe": 9.0,
+        "pb": 0.76,
+        "eps_est": 0.44,
+        "eps_last_q": 0.53,
+        "eps_last_y": 0.54,
+        "qoq": -17.0,
+        "yoy": -18.5,
+        "price": 18.9
     },
     {
         "date": "2026-03-26",
@@ -25645,6 +25590,20 @@
     },
     {
         "date": "2026-03-30",
+        "symbol": "FRMI",
+        "time": "盤前",
+        "market_cap": "4.9B",
+        "pe": 21.58,
+        "pb": 15.17,
+        "eps_est": -0.02,
+        "eps_last_q": -0.84,
+        "eps_last_y": -1.14,
+        "qoq": 97.6,
+        "yoy": 98.2,
+        "price": 7.98
+    },
+    {
+        "date": "2026-03-30",
         "symbol": "CMCL",
         "time": "盤前",
         "market_cap": "549.41M",
@@ -25701,6 +25660,20 @@
     },
     {
         "date": "2026-03-30",
+        "symbol": "PHR",
+        "time": "盤後",
+        "market_cap": "727.06M",
+        "pe": 8.03,
+        "pb": 2.27,
+        "eps_est": 0.32,
+        "eps_last_q": 0.31,
+        "eps_last_y": 0.18,
+        "qoq": 3.2,
+        "yoy": 77.8,
+        "price": 12.06
+    },
+    {
+        "date": "2026-03-30",
         "symbol": "LOAR",
         "time": "盤前",
         "market_cap": "6.14B",
@@ -25729,6 +25702,20 @@
     },
     {
         "date": "2026-03-30",
+        "symbol": "LVLU",
+        "time": "盤後",
+        "market_cap": "36.84M",
+        "pe": -49.22,
+        "pb": 14.54,
+        "eps_est": -1.35,
+        "eps_last_q": -2.85,
+        "eps_last_y": -3.76,
+        "qoq": 52.6,
+        "yoy": 64.1,
+        "price": 13.29
+    },
+    {
+        "date": "2026-03-30",
         "symbol": "AARD",
         "time": "盤後",
         "market_cap": "275.43M",
@@ -25740,6 +25727,20 @@
         "qoq": -10.7,
         "yoy": 61.9,
         "price": 12.65
+    },
+    {
+        "date": "2026-03-30",
+        "symbol": "SPCE",
+        "time": "盤後",
+        "market_cap": "185.75M",
+        "pe": -0.63,
+        "pb": 0.71,
+        "eps_est": -1.07,
+        "eps_last_q": -1.1,
+        "eps_last_y": -2.53,
+        "qoq": 2.7,
+        "yoy": 57.7,
+        "price": 2.54
     },
     {
         "date": "2026-03-30",
@@ -25852,6 +25853,34 @@
         "qoq": 0.0,
         "yoy": 11.1,
         "price": 37.16
+    },
+    {
+        "date": "2026-03-30",
+        "symbol": "DFDV",
+        "time": "盤後",
+        "market_cap": "115.98M",
+        "pe": 1.08,
+        "pb": 0.44,
+        "eps_est": -0.07,
+        "eps_last_q": -0.1,
+        "eps_last_y": -0.08,
+        "qoq": 30.0,
+        "yoy": 10.9,
+        "price": 3.88
+    },
+    {
+        "date": "2026-03-30",
+        "symbol": "BCHT",
+        "time": "盤後",
+        "market_cap": "363.25M",
+        "pe": -11.6,
+        "pb": -39.32,
+        "eps_est": -0.05,
+        "eps_last_q": 0.05,
+        "eps_last_y": -0.05,
+        "qoq": -200.0,
+        "yoy": 0.0,
+        "price": 2.32
     },
     {
         "date": "2026-03-30",
