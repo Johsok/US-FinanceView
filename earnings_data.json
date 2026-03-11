@@ -17259,20 +17259,6 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "LFWD",
-        "time": "盤前",
-        "market_cap": "9.15M",
-        "pe": -2.27,
-        "pb": 0.66,
-        "eps_est": -1.08,
-        "eps_last_q": -2.28,
-        "eps_last_y": -4.56,
-        "qoq": 52.6,
-        "yoy": 76.3,
-        "price": 6.01
-    },
-    {
-        "date": "2026-03-12",
         "symbol": "IRBT",
         "time": "盤後",
         "market_cap": "1.72M",
@@ -20812,6 +20798,20 @@
     },
     {
         "date": "2026-03-18",
+        "symbol": "LFWD",
+        "time": "盤前",
+        "market_cap": "9.68M",
+        "pe": -2.41,
+        "pb": 0.7,
+        "eps_est": -1.08,
+        "eps_last_q": -2.28,
+        "eps_last_y": -4.56,
+        "qoq": 52.6,
+        "yoy": 76.3,
+        "price": 6.35
+    },
+    {
+        "date": "2026-03-18",
         "symbol": "HTFL",
         "time": "盤後",
         "market_cap": "2.12B",
@@ -22916,6 +22916,20 @@
     },
     {
         "date": "2026-03-24",
+        "symbol": "TELA",
+        "time": "盤後",
+        "market_cap": "37.49M",
+        "pe": -1.44,
+        "pb": 21.59,
+        "eps_est": -0.18,
+        "eps_last_q": -0.19,
+        "eps_last_y": -0.23,
+        "qoq": 5.3,
+        "yoy": 21.7,
+        "price": 0.84
+    },
+    {
+        "date": "2026-03-24",
         "symbol": "WOR",
         "time": "盤後",
         "market_cap": "2.67B",
@@ -22955,6 +22969,20 @@
         "qoq": 33.3,
         "yoy": 20.0,
         "price": 0.77
+    },
+    {
+        "date": "2026-03-24",
+        "symbol": "AIR",
+        "time": "盤後",
+        "market_cap": "4.29B",
+        "pe": 42.3,
+        "pb": 2.71,
+        "eps_est": 1.16,
+        "eps_last_q": 1.18,
+        "eps_last_y": 0.99,
+        "qoq": -1.7,
+        "yoy": 17.2,
+        "price": 108.3
     },
     {
         "date": "2026-03-24",
@@ -23081,6 +23109,20 @@
         "qoq": 28.6,
         "yoy": -87.5,
         "price": 6.99
+    },
+    {
+        "date": "2026-03-24",
+        "symbol": "MDAI",
+        "time": "盤後",
+        "market_cap": "42.96M",
+        "pe": -1.63,
+        "pb": -4.65,
+        "eps_est": -0.14,
+        "eps_last_q": -0.13,
+        "eps_last_y": -0.07,
+        "qoq": -7.7,
+        "yoy": -100.0,
+        "price": 1.4
     },
     {
         "date": "2026-03-24",
@@ -24190,20 +24232,6 @@
     },
     {
         "date": "2026-03-26",
-        "symbol": "TELA",
-        "time": "盤後",
-        "market_cap": "36.11M",
-        "pe": -1.38,
-        "pb": 20.79,
-        "eps_est": -0.18,
-        "eps_last_q": -0.19,
-        "eps_last_y": -0.23,
-        "qoq": 5.3,
-        "yoy": 21.7,
-        "price": 0.81
-    },
-    {
-        "date": "2026-03-26",
         "symbol": "CDZI",
         "time": "盤前",
         "market_cap": "392.09M",
@@ -24229,20 +24257,6 @@
         "qoq": 14.3,
         "yoy": 20.0,
         "price": 0.63
-    },
-    {
-        "date": "2026-03-26",
-        "symbol": "AIR",
-        "time": "盤後",
-        "market_cap": "4.48B",
-        "pe": 44.18,
-        "pb": 2.83,
-        "eps_est": 1.16,
-        "eps_last_q": 1.18,
-        "eps_last_y": 0.99,
-        "qoq": -1.7,
-        "yoy": 17.2,
-        "price": 113.09
     },
     {
         "date": "2026-03-26",
@@ -24523,20 +24537,6 @@
         "qoq": 0.0,
         "yoy": -85.7,
         "price": 1.37
-    },
-    {
-        "date": "2026-03-26",
-        "symbol": "MDAI",
-        "time": "盤後",
-        "market_cap": "46.65M",
-        "pe": -1.77,
-        "pb": -5.05,
-        "eps_est": -0.14,
-        "eps_last_q": -0.14,
-        "eps_last_y": -0.07,
-        "qoq": 0.0,
-        "yoy": -100.0,
-        "price": 1.52
     },
     {
         "date": "2026-03-26",
