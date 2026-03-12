@@ -14191,20 +14191,6 @@
     },
     {
         "date": "2026-03-11",
-        "symbol": "WDH",
-        "time": "盤前",
-        "market_cap": "645.65M",
-        "pe": 8.75,
-        "pb": 0.86,
-        "eps_est": 0.27,
-        "eps_last_q": 0.45,
-        "eps_last_y": 0.29,
-        "qoq": -40.0,
-        "yoy": -6.9,
-        "price": 1.75
-    },
-    {
-        "date": "2026-03-11",
         "symbol": "TVRD",
         "time": "盤後",
         "market_cap": "36.96M",
@@ -15348,20 +15334,6 @@
         "qoq": -72.7,
         "yoy": 37.7,
         "price": 28.72
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "CLLS",
-        "time": "盤後",
-        "market_cap": "377.22M",
-        "pe": -6.05,
-        "pb": 2.7,
-        "eps_est": -0.1,
-        "eps_last_q": 0.02,
-        "eps_last_y": -0.16,
-        "qoq": -600.0,
-        "yoy": 37.5,
-        "price": 3.75
     },
     {
         "date": "2026-03-12",
@@ -17926,20 +17898,6 @@
     },
     {
         "date": "2026-03-16",
-        "symbol": "DRIO",
-        "time": "盤前",
-        "market_cap": "63.53M",
-        "pe": -2.52,
-        "pb": 0.85,
-        "eps_est": -1.59,
-        "eps_last_q": -3.34,
-        "eps_last_y": -0.87,
-        "qoq": 52.4,
-        "yoy": -82.8,
-        "price": 9.4
-    },
-    {
-        "date": "2026-03-16",
         "symbol": "KYNB",
         "time": "盤後",
         "market_cap": "27.99M",
@@ -19907,6 +19865,20 @@
     },
     {
         "date": "2026-03-19",
+        "symbol": "CLLS",
+        "time": "盤後",
+        "market_cap": "382.25M",
+        "pe": -6.13,
+        "pb": 2.74,
+        "eps_est": -0.1,
+        "eps_last_q": 0.02,
+        "eps_last_y": -0.16,
+        "qoq": -600.0,
+        "yoy": 37.5,
+        "price": 3.8
+    },
+    {
+        "date": "2026-03-19",
         "symbol": "PL",
         "time": "盤後",
         "market_cap": "8.87B",
@@ -20327,20 +20299,6 @@
     },
     {
         "date": "2026-03-19",
-        "symbol": "PGEN",
-        "time": "盤後",
-        "market_cap": "1.26B",
-        "pe": -16.14,
-        "pb": 30.08,
-        "eps_est": -0.04,
-        "eps_last_q": -1.06,
-        "eps_last_y": -0.03,
-        "qoq": 96.2,
-        "yoy": -33.3,
-        "price": 3.55
-    },
-    {
-        "date": "2026-03-19",
         "symbol": "PTHS",
         "time": "盤前",
         "market_cap": "74.58M",
@@ -20408,6 +20366,20 @@
         "qoq": -16.7,
         "yoy": -70.6,
         "price": 17.67
+    },
+    {
+        "date": "2026-03-19",
+        "symbol": "DRIO",
+        "time": "盤前",
+        "market_cap": "60.15M",
+        "pe": -2.39,
+        "pb": 0.8,
+        "eps_est": -1.59,
+        "eps_last_q": -2.22,
+        "eps_last_y": -0.87,
+        "qoq": 28.4,
+        "yoy": -82.8,
+        "price": 8.9
     },
     {
         "date": "2026-03-19",
@@ -20630,6 +20602,20 @@
         "eps_last_y": -0.32,
         "qoq": 104.0,
         "yoy": 103.1
+    },
+    {
+        "date": "2026-03-23",
+        "symbol": "CMCL",
+        "time": "盤前",
+        "market_cap": "506.56M",
+        "pe": 10.25,
+        "pb": 2.05,
+        "eps_est": 0.59,
+        "eps_last_q": 0.77,
+        "eps_last_y": 0.3,
+        "qoq": -23.4,
+        "yoy": 96.7,
+        "price": 26.24
     },
     {
         "date": "2026-03-23",
@@ -21638,6 +21624,20 @@
     },
     {
         "date": "2026-03-25",
+        "symbol": "PAYX",
+        "time": "盤前",
+        "market_cap": "33.74B",
+        "pe": 21.27,
+        "pb": 8.7,
+        "eps_est": 1.67,
+        "eps_last_q": 1.26,
+        "eps_last_y": 1.49,
+        "qoq": 32.5,
+        "yoy": 12.1,
+        "price": 94.0
+    },
+    {
+        "date": "2026-03-25",
         "symbol": "CTAS",
         "time": "盤前",
         "market_cap": "80.42B",
@@ -21694,6 +21694,20 @@
     },
     {
         "date": "2026-03-25",
+        "symbol": "WDH",
+        "time": "盤前",
+        "market_cap": "653.02M",
+        "pe": 8.85,
+        "pb": 0.87,
+        "eps_est": 0.27,
+        "eps_last_q": 0.45,
+        "eps_last_y": 0.29,
+        "qoq": -40.0,
+        "yoy": -6.9,
+        "price": 1.77
+    },
+    {
+        "date": "2026-03-25",
         "symbol": "KGEI",
         "time": "盤前",
         "market_cap": "163.05M",
@@ -21708,6 +21722,20 @@
     },
     {
         "date": "2026-03-25",
+        "symbol": "WYY",
+        "time": "盤後",
+        "market_cap": "43.52M",
+        "pe": -440.0,
+        "pb": 3.49,
+        "eps_est": -0.05,
+        "eps_last_q": -0.06,
+        "eps_last_y": -0.04,
+        "qoq": 16.7,
+        "yoy": -25.0,
+        "price": 4.4
+    },
+    {
+        "date": "2026-03-25",
         "symbol": "CHWY",
         "time": "盤前",
         "market_cap": "10.59B",
@@ -21719,6 +21747,20 @@
         "qoq": -37.5,
         "yoy": -28.6,
         "price": 25.51
+    },
+    {
+        "date": "2026-03-25",
+        "symbol": "PGEN",
+        "time": "盤後",
+        "market_cap": "1.21B",
+        "pe": -15.55,
+        "pb": 28.98,
+        "eps_est": -0.04,
+        "eps_last_q": -1.06,
+        "eps_last_y": -0.03,
+        "qoq": 96.2,
+        "yoy": -33.3,
+        "price": 3.42
     },
     {
         "date": "2026-03-25",
@@ -22450,20 +22492,6 @@
     },
     {
         "date": "2026-03-26",
-        "symbol": "PAYX",
-        "time": "盤前",
-        "market_cap": "35.37B",
-        "pe": 22.29,
-        "pb": 9.12,
-        "eps_est": 1.67,
-        "eps_last_q": 1.1,
-        "eps_last_y": 1.49,
-        "qoq": 51.8,
-        "yoy": 12.1,
-        "price": 98.53
-    },
-    {
-        "date": "2026-03-26",
         "symbol": "ZNTL",
         "time": "盤後",
         "market_cap": "154.75M",
@@ -22615,20 +22643,6 @@
         "qoq": 9.5,
         "yoy": -25.0,
         "price": 23.04
-    },
-    {
-        "date": "2026-03-26",
-        "symbol": "WYY",
-        "time": "盤後",
-        "market_cap": "55.39M",
-        "pe": -560.0,
-        "pb": 4.45,
-        "eps_est": -0.05,
-        "eps_last_q": -0.06,
-        "eps_last_y": -0.04,
-        "qoq": 16.7,
-        "yoy": -25.0,
-        "price": 5.6
     },
     {
         "date": "2026-03-26",
@@ -22895,20 +22909,6 @@
         "qoq": 97.6,
         "yoy": 98.2,
         "price": 7.98
-    },
-    {
-        "date": "2026-03-30",
-        "symbol": "CMCL",
-        "time": "盤前",
-        "market_cap": "549.41M",
-        "pe": 11.12,
-        "pb": 2.22,
-        "eps_est": 0.59,
-        "eps_last_q": 0.77,
-        "eps_last_y": 0.3,
-        "qoq": -23.4,
-        "yoy": 96.7,
-        "price": 28.46
     },
     {
         "date": "2026-03-30",
