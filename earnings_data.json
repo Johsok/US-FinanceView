@@ -13408,20 +13408,6 @@
     },
     {
         "date": "2026-03-11",
-        "symbol": "MUX",
-        "time": "盤後",
-        "market_cap": "1.45B",
-        "pe": 13.07,
-        "pb": 2.73,
-        "eps_est": 0.13,
-        "eps_last_q": 0.07,
-        "eps_last_y": -0.16,
-        "qoq": 85.7,
-        "yoy": 181.3,
-        "price": 24.5
-    },
-    {
-        "date": "2026-03-11",
         "symbol": "ANIK",
         "time": "盤前",
         "market_cap": "148.54M",
@@ -13475,20 +13461,6 @@
         "qoq": -63.2,
         "yoy": 117.5,
         "price": 14.09
-    },
-    {
-        "date": "2026-03-11",
-        "symbol": "ZENV",
-        "time": "盤後",
-        "market_cap": "32.95M",
-        "pe": 0.0,
-        "pb": 0.23,
-        "eps_est": 0.09,
-        "eps_last_q": -2.67,
-        "eps_last_y": -0.94,
-        "qoq": 103.4,
-        "yoy": 109.6,
-        "price": 0.63
     },
     {
         "date": "2026-03-11",
@@ -13559,20 +13531,6 @@
         "qoq": 90.0,
         "yoy": 95.5,
         "price": 4.42
-    },
-    {
-        "date": "2026-03-11",
-        "symbol": "ELBM",
-        "time": "盤後",
-        "market_cap": "72.55M",
-        "pe": -5.04,
-        "pb": 0.36,
-        "eps_est": -0.19,
-        "eps_last_q": -0.27,
-        "eps_last_y": -1.7,
-        "qoq": 29.6,
-        "yoy": 88.8,
-        "price": 0.7
     },
     {
         "date": "2026-03-11",
@@ -13855,20 +13813,6 @@
     },
     {
         "date": "2026-03-11",
-        "symbol": "RCMT",
-        "time": "盤後",
-        "market_cap": "142.5M",
-        "pe": 11.25,
-        "pb": 3.44,
-        "eps_est": 0.62,
-        "eps_last_q": 0.42,
-        "eps_last_y": 0.49,
-        "qoq": 47.6,
-        "yoy": 26.5,
-        "price": 19.23
-    },
-    {
-        "date": "2026-03-11",
         "symbol": "EWCZ",
         "time": "盤前",
         "market_cap": "219.44M",
@@ -14051,34 +13995,6 @@
     },
     {
         "date": "2026-03-11",
-        "symbol": "USBC",
-        "time": "盤後",
-        "market_cap": "151.38M",
-        "pe": null,
-        "pb": 1.56,
-        "eps_est": -2.8,
-        "eps_last_q": -1.46,
-        "eps_last_y": -2.8,
-        "qoq": -91.8,
-        "yoy": 0.0,
-        "price": 0.39
-    },
-    {
-        "date": "2026-03-11",
-        "symbol": "KNW",
-        "time": "盤後",
-        "market_cap": "--",
-        "pe": null,
-        "pb": "-",
-        "eps_est": -2.8,
-        "eps_last_q": -1.46,
-        "eps_last_y": -2.8,
-        "qoq": -91.8,
-        "yoy": 0.0,
-        "price": "-"
-    },
-    {
-        "date": "2026-03-11",
         "symbol": "KLXE",
         "time": "盤後",
         "market_cap": "48.7M",
@@ -14188,20 +14104,6 @@
         "qoq": -70.2,
         "yoy": -5.6,
         "price": 16.13
-    },
-    {
-        "date": "2026-03-11",
-        "symbol": "TVRD",
-        "time": "盤後",
-        "market_cap": "36.96M",
-        "pe": -1.86,
-        "pb": 1.33,
-        "eps_est": -0.57,
-        "eps_last_q": -0.59,
-        "eps_last_y": -0.52,
-        "qoq": 3.4,
-        "yoy": -8.7,
-        "price": 3.94
     },
     {
         "date": "2026-03-11",
@@ -14470,20 +14372,6 @@
     },
     {
         "date": "2026-03-11",
-        "symbol": "ADAP",
-        "time": "盤後",
-        "market_cap": "--",
-        "pe": null,
-        "pb": "-",
-        "eps_est": -0.12,
-        "eps_last_q": -0.12,
-        "eps_last_y": -0.01,
-        "qoq": 0.0,
-        "yoy": -1100.0,
-        "price": "-"
-    },
-    {
-        "date": "2026-03-11",
         "symbol": "TBBB",
         "time": "盤後",
         "market_cap": "3.79B",
@@ -14592,6 +14480,20 @@
         "eps_last_y": -0.13,
         "qoq": 58.3,
         "yoy": 246.2
+    },
+    {
+        "date": "2026-03-12",
+        "symbol": "MUX",
+        "time": "不確定",
+        "market_cap": "1.45B",
+        "pe": 5.61,
+        "pb": 2.72,
+        "eps_est": 0.21,
+        "eps_last_q": -0.01,
+        "eps_last_y": -0.16,
+        "qoq": 2200.0,
+        "yoy": 231.2,
+        "price": 24.43
     },
     {
         "date": "2026-03-12",
@@ -14749,6 +14651,20 @@
     },
     {
         "date": "2026-03-12",
+        "symbol": "ZENV",
+        "time": "盤後",
+        "market_cap": "31.76M",
+        "pe": 0.0,
+        "pb": 0.22,
+        "eps_est": 0.09,
+        "eps_last_q": -2.67,
+        "eps_last_y": -0.94,
+        "qoq": 103.4,
+        "yoy": 109.6,
+        "price": 0.6
+    },
+    {
+        "date": "2026-03-12",
         "symbol": "BZFD",
         "time": "盤後",
         "market_cap": "30.19M",
@@ -14903,17 +14819,17 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "UPB",
-        "time": "盤前",
-        "market_cap": "505.8M",
-        "pe": -3.01,
-        "pb": 1.34,
-        "eps_est": -0.7,
-        "eps_last_q": -0.63,
-        "eps_last_y": -6.96,
-        "qoq": -11.1,
-        "yoy": 89.9,
-        "price": 9.36
+        "symbol": "ELBM",
+        "time": "盤後",
+        "market_cap": "70.28M",
+        "pe": -4.88,
+        "pb": 0.35,
+        "eps_est": -0.19,
+        "eps_last_q": -0.27,
+        "eps_last_y": -1.7,
+        "qoq": 29.6,
+        "yoy": 88.8,
+        "price": 0.68
     },
     {
         "date": "2026-03-12",
@@ -15085,6 +15001,20 @@
     },
     {
         "date": "2026-03-12",
+        "symbol": "GYRE",
+        "time": "不確定",
+        "market_cap": "751.88M",
+        "pe": 195.12,
+        "pb": 6.96,
+        "eps_est": 0.05,
+        "eps_last_q": 0.03,
+        "eps_last_y": 0.03,
+        "qoq": 66.7,
+        "yoy": 66.7,
+        "price": 7.8
+    },
+    {
+        "date": "2026-03-12",
         "symbol": "IPA",
         "time": "盤前",
         "market_cap": "--",
@@ -15113,20 +15043,6 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "PESI",
-        "time": "盤前",
-        "market_cap": "260.17M",
-        "pe": 42.58,
-        "pb": 4.69,
-        "eps_est": -0.09,
-        "eps_last_q": -0.1,
-        "eps_last_y": -0.22,
-        "qoq": 10.0,
-        "yoy": 59.1,
-        "price": 14.05
-    },
-    {
-        "date": "2026-03-12",
         "symbol": "USEA",
         "time": "盤前",
         "market_cap": "19.44M",
@@ -15152,20 +15068,6 @@
         "qoq": -12.5,
         "yoy": 54.3,
         "price": 9.2
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "GHI",
-        "time": "盤前",
-        "market_cap": "178.52M",
-        "pe": 44.53,
-        "pb": 0.61,
-        "eps_est": 0.6,
-        "eps_last_q": 0.2,
-        "eps_last_y": 0.39,
-        "qoq": 200.0,
-        "yoy": 53.8,
-        "price": 7.57
     },
     {
         "date": "2026-03-12",
@@ -15446,34 +15348,6 @@
         "qoq": -20.0,
         "yoy": 25.0,
         "price": 17.21
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "HOWL",
-        "time": "盤前",
-        "market_cap": "40.65M",
-        "pe": -0.66,
-        "pb": 1.34,
-        "eps_est": -0.35,
-        "eps_last_q": -0.36,
-        "eps_last_y": -0.46,
-        "qoq": 2.8,
-        "yoy": 23.9,
-        "price": 0.84
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "OVID",
-        "time": "盤前",
-        "market_cap": "147.41M",
-        "pe": -5.58,
-        "pb": 3.3,
-        "eps_est": -0.1,
-        "eps_last_q": -0.17,
-        "eps_last_y": -0.13,
-        "qoq": 41.2,
-        "yoy": 23.1,
-        "price": 2.07
     },
     {
         "date": "2026-03-12",
@@ -15771,6 +15645,34 @@
     },
     {
         "date": "2026-03-12",
+        "symbol": "USBC",
+        "time": "盤後",
+        "market_cap": "139.73M",
+        "pe": null,
+        "pb": 1.44,
+        "eps_est": -2.8,
+        "eps_last_q": -1.46,
+        "eps_last_y": -2.8,
+        "qoq": -91.8,
+        "yoy": 0.0,
+        "price": 0.36
+    },
+    {
+        "date": "2026-03-12",
+        "symbol": "KNW",
+        "time": "盤後",
+        "market_cap": "--",
+        "pe": null,
+        "pb": "-",
+        "eps_est": -2.8,
+        "eps_last_q": -1.46,
+        "eps_last_y": -2.8,
+        "qoq": -91.8,
+        "yoy": 0.0,
+        "price": "-"
+    },
+    {
+        "date": "2026-03-12",
         "symbol": "LNSR",
         "time": "盤前",
         "market_cap": "142.02M",
@@ -15869,6 +15771,20 @@
     },
     {
         "date": "2026-03-12",
+        "symbol": "PHAR",
+        "time": "不確定",
+        "market_cap": "1.05B",
+        "pe": "Infinity",
+        "pb": 28.73,
+        "eps_est": 0.01,
+        "eps_last_q": 0.01,
+        "eps_last_y": 0.01,
+        "qoq": 0.0,
+        "yoy": 0.0,
+        "price": 15.14
+    },
+    {
+        "date": "2026-03-12",
         "symbol": "GBIO",
         "time": "盤後",
         "market_cap": "38.68M",
@@ -15908,6 +15824,20 @@
         "qoq": -46.9,
         "yoy": -2.2,
         "price": 29.5
+    },
+    {
+        "date": "2026-03-12",
+        "symbol": "CION",
+        "time": "不確定",
+        "market_cap": "360.44M",
+        "pe": 14.12,
+        "pb": 0.47,
+        "eps_est": 0.34,
+        "eps_last_q": 0.69,
+        "eps_last_y": 0.35,
+        "qoq": -50.7,
+        "yoy": -2.9,
+        "price": 6.92
     },
     {
         "date": "2026-03-12",
@@ -16009,17 +15939,17 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "LGVN",
+        "symbol": "TVRD",
         "time": "盤後",
-        "market_cap": "19.01M",
-        "pe": -0.58,
-        "pb": 1.88,
-        "eps_est": -0.37,
-        "eps_last_q": -0.39,
-        "eps_last_y": -0.34,
-        "qoq": 5.1,
-        "yoy": -8.8,
-        "price": 0.89
+        "market_cap": "34.48M",
+        "pe": -1.74,
+        "pb": 1.24,
+        "eps_est": -0.57,
+        "eps_last_q": -0.59,
+        "eps_last_y": -0.52,
+        "qoq": 3.4,
+        "yoy": -8.7,
+        "price": 3.67
     },
     {
         "date": "2026-03-12",
@@ -16160,20 +16090,6 @@
         "qoq": 196.4,
         "yoy": -22.9,
         "price": 13.01
-    },
-    {
-        "date": "2026-03-12",
-        "symbol": "MGTX",
-        "time": "盤前",
-        "market_cap": "596.44M",
-        "pe": -2.95,
-        "pb": -14.7,
-        "eps_est": -0.62,
-        "eps_last_q": -0.62,
-        "eps_last_y": -0.5,
-        "qoq": 0.0,
-        "yoy": -24.0,
-        "price": 7.41
     },
     {
         "date": "2026-03-12",
@@ -16499,20 +16415,6 @@
     },
     {
         "date": "2026-03-12",
-        "symbol": "COYA",
-        "time": "盤前",
-        "market_cap": "103.16M",
-        "pe": -3.14,
-        "pb": 3.02,
-        "eps_est": -0.3,
-        "eps_last_q": -0.13,
-        "eps_last_y": -0.18,
-        "qoq": -130.8,
-        "yoy": -66.7,
-        "price": 4.93
-    },
-    {
-        "date": "2026-03-12",
         "symbol": "EGY",
         "time": "盤後",
         "market_cap": "562.99M",
@@ -16793,6 +16695,20 @@
     },
     {
         "date": "2026-03-12",
+        "symbol": "ADAP",
+        "time": "盤後",
+        "market_cap": "--",
+        "pe": null,
+        "pb": "-",
+        "eps_est": -0.12,
+        "eps_last_q": -0.12,
+        "eps_last_y": -0.01,
+        "qoq": 0.0,
+        "yoy": -1100.0,
+        "price": "-"
+    },
+    {
+        "date": "2026-03-12",
         "symbol": "WOW",
         "time": "盤前",
         "market_cap": "445.86M",
@@ -16860,6 +16776,20 @@
         "qoq": 81.2,
         "yoy": 95.0,
         "price": 6.29
+    },
+    {
+        "date": "2026-03-13",
+        "symbol": "UPB",
+        "time": "盤前",
+        "market_cap": "509.85M",
+        "pe": -3.03,
+        "pb": 1.35,
+        "eps_est": -0.7,
+        "eps_last_q": -0.63,
+        "eps_last_y": -6.96,
+        "qoq": -11.1,
+        "yoy": 89.9,
+        "price": 9.44
     },
     {
         "date": "2026-03-13",
@@ -16960,20 +16890,6 @@
     },
     {
         "date": "2026-03-13",
-        "symbol": "BALY",
-        "time": "盤後",
-        "market_cap": "625.83M",
-        "pe": -8.54,
-        "pb": 1.2,
-        "eps_est": -0.75,
-        "eps_last_q": -3.85,
-        "eps_last_y": -1.75,
-        "qoq": 80.5,
-        "yoy": 57.1,
-        "price": 12.73
-    },
-    {
-        "date": "2026-03-13",
         "symbol": "BETR",
         "time": "盤前",
         "market_cap": "524.27M",
@@ -16985,6 +16901,20 @@
         "qoq": 2.2,
         "yoy": 45.3,
         "price": 33.4
+    },
+    {
+        "date": "2026-03-13",
+        "symbol": "RCMT",
+        "time": "盤後",
+        "market_cap": "144.8M",
+        "pe": 11.43,
+        "pb": 3.5,
+        "eps_est": 0.62,
+        "eps_last_q": 0.42,
+        "eps_last_y": 0.49,
+        "qoq": 47.6,
+        "yoy": 26.5,
+        "price": 19.54
     },
     {
         "date": "2026-03-13",
@@ -17002,6 +16932,20 @@
     },
     {
         "date": "2026-03-13",
+        "symbol": "OVID",
+        "time": "盤前",
+        "market_cap": "143.14M",
+        "pe": -5.41,
+        "pb": 3.2,
+        "eps_est": -0.1,
+        "eps_last_q": -0.17,
+        "eps_last_y": -0.13,
+        "qoq": 41.2,
+        "yoy": 23.1,
+        "price": 2.01
+    },
+    {
+        "date": "2026-03-13",
         "symbol": "RLX",
         "time": "盤前",
         "market_cap": "2.98B",
@@ -17013,20 +16957,6 @@
         "qoq": 4.5,
         "yoy": 21.1,
         "price": 2.34
-    },
-    {
-        "date": "2026-03-13",
-        "symbol": "CMTL",
-        "time": "盤後",
-        "market_cap": "151.18M",
-        "pe": -6.22,
-        "pb": 1.76,
-        "eps_est": -0.3,
-        "eps_last_q": -0.18,
-        "eps_last_y": -0.35,
-        "qoq": -66.7,
-        "yoy": 14.3,
-        "price": 5.1
     },
     {
         "date": "2026-03-13",
@@ -17111,6 +17041,20 @@
         "qoq": 50.0,
         "yoy": -5.9,
         "price": 53.0
+    },
+    {
+        "date": "2026-03-13",
+        "symbol": "MGTX",
+        "time": "盤前",
+        "market_cap": "614.95M",
+        "pe": -3.04,
+        "pb": -15.16,
+        "eps_est": -0.62,
+        "eps_last_q": -0.62,
+        "eps_last_y": -0.5,
+        "qoq": 0.0,
+        "yoy": -24.0,
+        "price": 7.64
     },
     {
         "date": "2026-03-13",
@@ -17282,6 +17226,20 @@
     },
     {
         "date": "2026-03-16",
+        "symbol": "GHI",
+        "time": "盤前",
+        "market_cap": "171.44M",
+        "pe": 42.76,
+        "pb": 0.59,
+        "eps_est": 0.6,
+        "eps_last_q": 0.2,
+        "eps_last_y": 0.18,
+        "qoq": 200.0,
+        "yoy": 233.3,
+        "price": 7.27
+    },
+    {
+        "date": "2026-03-16",
         "symbol": "CWCO",
         "time": "盤後",
         "market_cap": "612.24M",
@@ -17419,6 +17377,34 @@
         "qoq": 12.2,
         "yoy": 61.3,
         "price": 1.01
+    },
+    {
+        "date": "2026-03-16",
+        "symbol": "PESI",
+        "time": "盤前",
+        "market_cap": "236.93M",
+        "pe": 38.77,
+        "pb": 4.27,
+        "eps_est": -0.09,
+        "eps_last_q": -0.1,
+        "eps_last_y": -0.22,
+        "qoq": 10.0,
+        "yoy": 59.1,
+        "price": 12.8
+    },
+    {
+        "date": "2026-03-16",
+        "symbol": "BALY",
+        "time": "盤後",
+        "market_cap": "640.58M",
+        "pe": -8.74,
+        "pb": 1.23,
+        "eps_est": -0.75,
+        "eps_last_q": -3.85,
+        "eps_last_y": -1.75,
+        "qoq": 80.5,
+        "yoy": 57.1,
+        "price": 13.03
     },
     {
         "date": "2026-03-16",
@@ -17562,6 +17548,20 @@
     },
     {
         "date": "2026-03-16",
+        "symbol": "HOWL",
+        "time": "盤前",
+        "market_cap": "40.09M",
+        "pe": -0.66,
+        "pb": 1.32,
+        "eps_est": -0.35,
+        "eps_last_q": -0.36,
+        "eps_last_y": -0.46,
+        "qoq": 2.8,
+        "yoy": 23.9,
+        "price": 0.83
+    },
+    {
+        "date": "2026-03-16",
         "symbol": "FINV",
         "time": "盤後",
         "market_cap": "1.28B",
@@ -17573,6 +17573,34 @@
         "qoq": -31.8,
         "yoy": 22.0,
         "price": 5.17
+    },
+    {
+        "date": "2026-03-16",
+        "symbol": "BKKT",
+        "time": "盤後",
+        "market_cap": "281.48M",
+        "pe": 9.59,
+        "pb": 1.33,
+        "eps_est": -0.47,
+        "eps_last_q": 2.47,
+        "eps_last_y": -0.55,
+        "qoq": -119.0,
+        "yoy": 14.5,
+        "price": 9.21
+    },
+    {
+        "date": "2026-03-16",
+        "symbol": "CMTL",
+        "time": "盤後",
+        "market_cap": "141.99M",
+        "pe": -5.84,
+        "pb": 1.66,
+        "eps_est": -0.3,
+        "eps_last_q": -0.18,
+        "eps_last_y": -0.35,
+        "qoq": -66.7,
+        "yoy": 14.3,
+        "price": 4.79
     },
     {
         "date": "2026-03-16",
@@ -17657,20 +17685,6 @@
         "qoq": 36.4,
         "yoy": 0.0,
         "price": 0.9
-    },
-    {
-        "date": "2026-03-16",
-        "symbol": "GYRE",
-        "time": "盤前",
-        "market_cap": "797.64M",
-        "pe": 207.0,
-        "pb": 7.39,
-        "eps_est": 0.03,
-        "eps_last_q": 0.03,
-        "eps_last_y": 0.03,
-        "qoq": 0.0,
-        "yoy": 0.0,
-        "price": 8.28
     },
     {
         "date": "2026-03-16",
@@ -17853,6 +17867,20 @@
         "qoq": 2.9,
         "yoy": -41.7,
         "price": 5.1
+    },
+    {
+        "date": "2026-03-16",
+        "symbol": "COYA",
+        "time": "盤前",
+        "market_cap": "99.39M",
+        "pe": -3.03,
+        "pb": 2.91,
+        "eps_est": -0.3,
+        "eps_last_q": -0.13,
+        "eps_last_y": -0.18,
+        "qoq": -130.8,
+        "yoy": -66.7,
+        "price": 4.75
     },
     {
         "date": "2026-03-16",
@@ -18707,6 +18735,20 @@
         "qoq": 73.3,
         "yoy": -7.1,
         "price": 60.39
+    },
+    {
+        "date": "2026-03-17",
+        "symbol": "LGVN",
+        "time": "盤後",
+        "market_cap": "17.26M",
+        "pe": -0.53,
+        "pb": 1.71,
+        "eps_est": -0.37,
+        "eps_last_q": -0.39,
+        "eps_last_y": -0.34,
+        "qoq": 5.1,
+        "yoy": -8.8,
+        "price": 0.81
     },
     {
         "date": "2026-03-17",
@@ -19988,20 +20030,6 @@
         "qoq": 0.0,
         "yoy": 25.0,
         "price": 5.54
-    },
-    {
-        "date": "2026-03-19",
-        "symbol": "BKKT",
-        "time": "盤前",
-        "market_cap": "262.77M",
-        "pe": 10.62,
-        "pb": 1.47,
-        "eps_est": -0.47,
-        "eps_last_q": 2.47,
-        "eps_last_y": -0.55,
-        "qoq": -119.0,
-        "yoy": 14.5,
-        "price": 10.2
     },
     {
         "date": "2026-03-19",
